@@ -1,4 +1,4 @@
-### Hello, my name is Ed.
+### Hi, I'm Ed.
 
 - 🔭 I’m currently working at Experian
 - 🌱 I’m currently learning about microfrontends
